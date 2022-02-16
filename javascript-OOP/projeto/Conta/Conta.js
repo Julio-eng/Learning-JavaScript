@@ -1,4 +1,4 @@
-import { Cliente } from "./Cliente.js";
+import { Cliente } from "/home/julio/Desktop/Geral/Learning-JavaScript/javascript-OOP/projeto/Cliente.js";
 
 export class Conta{
     constructor(saldoInicial, cliente, agencia){
